@@ -1,0 +1,6 @@
+name: SuiteA
+tests:
+  - name: Test
+    classes:
+      - pfPack.LoginTest
+
